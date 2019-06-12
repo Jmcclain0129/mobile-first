@@ -12,7 +12,7 @@
     .column {
         /* overwrites above margine, width and bg color */
         background-color: #e84610; /* red */
-        width: 30px;
+        width: 100px;
         margin: 10px;
     }
 
